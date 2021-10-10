@@ -300,12 +300,15 @@ ul {
   line-height: 1.9;
   font-size: 16px;
 }
-.portfolio-list img {
-  display: block;
-}
+
 .portfolio-list a {
   text-decoration: none;
 }
+
+.portfolio-list img {
+  display: block;
+}
+
 
 .portfolio-list .description {
   width: 370px;
